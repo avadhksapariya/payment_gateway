@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.payment_gateway"
+    namespace = "com.apexavadh.payment_gateway"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
